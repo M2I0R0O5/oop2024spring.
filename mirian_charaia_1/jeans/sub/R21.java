@@ -1,7 +1,7 @@
-package oop2024spring.quizes.q2.mirian_charaia_1.jeans.sub;
+package quizes.q2.mirian_charaia_1.jeans.sub;
 
-import oop2024spring.quizes.q2.mirian_charaia_1.jeans.A21;
-import oop2024spring.quizes.q2.mirian_charaia_1.piano.A22;
+import quizes.q2.mirian_charaia_1.jeans.A21;
+import quizes.q2.mirian_charaia_1.piano.A22;
 
 public class R21 {
     public static void main(String[] args) {

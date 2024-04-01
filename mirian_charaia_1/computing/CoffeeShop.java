@@ -1,4 +1,4 @@
-package oop2024spring.quizes.q2.mirian_charaia_1.computing;
+package quizes.q2.mirian_charaia_1.computing;
 
 public class CoffeeShop {
     public static void main(String[] args) {

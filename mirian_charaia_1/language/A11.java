@@ -1,4 +1,4 @@
-package oop2024spring.quizes.q2.mirian_charaia_1.language;
+package quizes.q2.mirian_charaia_1.language;
 
 public class A11 {
 }
